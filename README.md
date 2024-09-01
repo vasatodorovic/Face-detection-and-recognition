@@ -21,7 +21,18 @@ This project implements a custom YOLO (You Only Look Once)👀 model for detecti
 
 - **00_FaceDetection**: Contains the final implementation with all scripts for training, evaluation, and inference.
 - **previous_attempts**: Holds earlier versions of the project, documenting issues with dataset construction and loss function design.
-  
+- 
+### Development Process
+
+   ![losa_slika_ml](https://github.com/user-attachments/assets/f6079cf6-408a-4b3c-9498-968fd7e72ca3)
+   ![ml_slika2](https://github.com/user-attachments/assets/d13b68a0-c6df-4a03-ae27-e1bad8c04c2c)
+   ![ok_ml_slika](https://github.com/user-attachments/assets/7428e202-7fe2-46a5-b5a9-690df8a6e798)
+   ![notbad](https://github.com/user-attachments/assets/c870979e-cc6a-4ef0-9bd7-9a7675ef4663)
+   ![overlapping](https://github.com/user-attachments/assets/39d3dd06-c838-40ed-93cb-93a83f0583b8)
+   ![nms](https://github.com/user-attachments/assets/94d32233-b090-40b6-b09b-3e4460e20618)
+   ![overlapping2](https://github.com/user-attachments/assets/7350b382-f7cc-4123-a2e8-75de81561ae0)
+   ![nms2](https://github.com/user-attachments/assets/9f0fda8b-558a-4c0c-abd9-d04c2dbc2dfe)
+
 #### Constructed models: 
 
 - https://drive.google.com/drive/folders/1YU3ZbLDScdlr_SaJtzAjiH6ksqnjWmME?usp=drive_link
