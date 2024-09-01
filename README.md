@@ -30,8 +30,7 @@ This project implements a custom YOLO (You Only Look Once)👀 model for detecti
    ![notbad](https://github.com/user-attachments/assets/c870979e-cc6a-4ef0-9bd7-9a7675ef4663)
    ![overlapping](https://github.com/user-attachments/assets/39d3dd06-c838-40ed-93cb-93a83f0583b8)
    ![nms](https://github.com/user-attachments/assets/94d32233-b090-40b6-b09b-3e4460e20618)
-   ![overlapping2](https://github.com/user-attachments/assets/7350b382-f7cc-4123-a2e8-75de81561ae0)
-   ![nms2](https://github.com/user-attachments/assets/9f0fda8b-558a-4c0c-abd9-d04c2dbc2dfe)
+
 
 #### Constructed models: 
 
